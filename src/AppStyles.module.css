@@ -1,0 +1,20 @@
+.phoneTitle {
+  color: rgb(51, 51, 95);
+  font-size: 40px;
+  font-weight: 900;
+}
+.contactTitle{
+    color: rgb(53, 138, 60);
+    font-size: 30px;
+    font-weight: 900;
+}
+.appear {
+  transform: translateX(-100%);
+}
+
+.appearActive {
+  transform: translateX(0);
+  transition: all 500ms linear;
+}
+
+

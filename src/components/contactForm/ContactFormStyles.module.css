@@ -1,0 +1,22 @@
+.addbtn__style{
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+    background-color:  rgb(117, 117, 173);
+    /* width: 70px; */
+    line-height: 2;
+    height: 35px;
+    color: whitesmoke;
+}
+.form__style{
+    /* display: flex; */
+    padding-top: 10px;
+/* height: 60px; */
+    /* border: 2px solid rgb(119, 204, 238); */
+}
+.input__style{
+    border: 2px solid rgb(116, 116, 155);
+    height: 30px;
+    margin-right: 10px;
+
+}
